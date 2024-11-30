@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave a talk "Color Refinement: One Algorithm, Many Facets" at SIGAlgo 2024 (TU Eindhoven)
+Gave a talk "*Color Refinement: One Algorithm, Many Facets*" at **SIGAlgo 2024** (TU *Eindhoven*)
