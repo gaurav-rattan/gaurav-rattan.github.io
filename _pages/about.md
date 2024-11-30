@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Twente</a>. Zilverling 4029. 
 
 profile:
   align: right
@@ -25,9 +25,10 @@ My research is mainly focused on
 * **Learning on Graphs**
   * Design and Analysis of Graph Neural Networks
 
-* **Algorithms and Complexity** 
+
+* **Algorithms, Logic and Complexity** for Graphs
   * Graph Homomorphisms
-  * Graph Isomorphism 
+  * Graph Isomorphisms 
 
 
 
