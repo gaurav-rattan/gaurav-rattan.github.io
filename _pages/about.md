@@ -29,4 +29,7 @@ My research is mainly focused on the domain of *graphs and networks*, such as
 
 Click on the above links to find representative papers. 
 
-<div style="width:100 ptx; text-align: justify"> Since May 2024, I am an assistant professor at the University of Twente in the Department of Applied Mathematics. Previously, I was a postdoc at TU Darmstadt in the group of Pascal Schweitzer and a DFG Eigene Stelle researcher at RWTH Aachen in the group of Martin Grohe. Earlier, I did my PhD at IMSc Chennai and my B. Tech. at IIT Bombay. </div>
+<div style="width:100 ptx; text-align: justify"> Since May 2024, I am an assistant professor at the University of Twente in the Department of Applied Mathematics. Previously, I was a postdoc at <a href="https://www.tu-darmstadt.de/index.en.jsp">TU Darmstadt</a> in the group of <a href="https://www.mathematik.tu-darmstadt.de/fb/personal/details/pascal_schweitzer.de.jsp"> Pascal Schweitzer and a DFG Eigene Stelle researcher at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1"> RWTH Aachen</a> in the group of <a href="https://www.lics.rwth-aachen.de/go/id/ocwf"> Martin Grohe</a>. </div>
+  
+<div style="width:100 ptx; text-align: justify">  Earlier, I did my PhD at <a href="https://www.imsc.res.in/">IMSc Chennai</a>a> (with <a href="https://www.imsc.res.in/~arvind/"> V. Arvind </a>) and my B. Tech. at <a href="https://www.iitb.ac.in/"> IIT Bombay</a>. </div>
+
