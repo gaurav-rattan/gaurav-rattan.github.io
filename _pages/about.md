@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://people.utwente.nl/g.rattan'>Assistant Professor</a>, <a href='https://www.utwente.nl/'>University of Twente</a>. _Zilverling 4029_. 
+subtitle: <a href='https://people.utwente.nl/g.rattan'>Assistant Professor</a>, <a href='https://www.utwente.nl/'>University of Twente</a>.
 
 profile:
   align: right
