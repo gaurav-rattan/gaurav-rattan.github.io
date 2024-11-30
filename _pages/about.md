@@ -18,16 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research is mainly focused on 
+My research is mainly focused on the interplay between *mathematics, algorithms and learning* in the domain of *graphs and networks*: 
 
-* **Learning** on Graphs
-  * Design and Analysis of Graph Neural Networks
-    
 * **Algorithms, Logic and Complexity** for Graphs
   * Graph Homomorphisms
   * Graph Isomorphisms
 
+* Theory and Applications of **Learning** on Graphs
+  * Design and Analysis of Graph Neural Networks    
+
 Click on the above links to find representative papers. 
 
 Since May 2024, I am an assistant professor at the University of Twente in the Department of Applied Mathematics. Previously, I was a postdoc at TU Darmstadt in the group of Pascal Schweitzer and a DFG Eigene Stelle researcher at RWTH Aachen in the group of Martin Grohe. Earlier, I did my PhD at IMSc Chennai and my B. Tech. at IIT Bombay. 
-
