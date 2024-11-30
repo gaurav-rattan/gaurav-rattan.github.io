@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Twente</a>. Zilverling 4029. 
+subtitle: <a href='https://www.utwente.nl/'>University of Twente</a>. Zilverling 4029. 
 
 profile:
   align: right
@@ -18,11 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Assistant Professor at the University of Twente. 
+<a href='https://people.utwente.nl/g.rattan'>Assistant Professor</a> at the University of Twente. 
 
 My research is mainly focused on 
 
-* **Learning on Graphs**
+* **Learning** on Graphs
   * Design and Analysis of Graph Neural Networks
 
 
