@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://people.utwente.nl/g.rattan'>Assistant Professor</a>, <a href='https://www.utwente.nl/'>University of Twente</a>.
+subtitle: <a href='https://people.utwente.nl/g.rattan'>Assistant Professor</a>, <a href='https://www.utwente.nl/en/'>University of Twente</a>.
 
 profile:
   align: right
@@ -26,4 +26,6 @@ My research is mainly focused on
 
 * **Algorithms, Logic and Complexity** for Graphs
   * Graph Homomorphisms
-  * Graph Isomorphisms 
+  * Graph Isomorphisms
+
+Click on the above links to find representative papers. 
