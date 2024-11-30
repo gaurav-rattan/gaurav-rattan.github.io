@@ -2,23 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.utwente.nl/'>University of Twente</a>. Zilverling 4029. 
+subtitle: <a href='https://people.utwente.nl/g.rattan'>Assistant Professor</a>, <a href='https://www.utwente.nl/'>University of Twente</a>. _Zilverling 4029_. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Zilverling 4029. </p>
+    <p>Hallenweg 19, </p>
+    <p>Enschede NL 7522 NH</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-<a href='https://people.utwente.nl/g.rattan'>Assistant Professor</a> at the University of Twente. 
 
 My research is mainly focused on 
 
