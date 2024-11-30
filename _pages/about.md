@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research is mainly focused on the interplay between *mathematics, algorithms and learning* in the domain of *graphs and networks*: 
+My research is mainly focused on the domain of *graphs and networks*, in particular, 
 
 * **Algorithms, Logic and Complexity** for Graphs
   * Graph Homomorphisms
