@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Zilverling 4029. </p>
+    <p>Zilverling 4029, </p>
     <p>Hallenweg 19, </p>
-    <p>Enschede NL 7522 NH</p>
+    <p>Enschede, 7522 NH</p>
+    <p> The Netherlands.</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
