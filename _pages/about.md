@@ -18,15 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research is mainly focused on the domain of *graphs and networks*, in particular, 
+My research is mainly focused on the domain of *graphs and networks*, such as
 
 * **Algorithms, Logic and Complexity** for Graphs
-  * Graph Homomorphisms
-  * Graph Isomorphisms
+  * *Graph Isomorphisms*
+  * *Graph Homomorphisms*
 
 * Theory and Applications of **Learning on Graphs**
   * Design and Analysis of *Graph Neural Networks*    
 
 Click on the above links to find representative papers. 
 
-<div style="text-align: justify"> Since May 2024, I am an assistant professor at the University of Twente in the Department of Applied Mathematics. Previously, I was a postdoc at TU Darmstadt in the group of Pascal Schweitzer and a DFG Eigene Stelle researcher at RWTH Aachen in the group of Martin Grohe. Earlier, I did my PhD at IMSc Chennai and my B. Tech. at IIT Bombay. </div>
+<div style="width:100 ptx; text-align: justify"> Since May 2024, I am an assistant professor at the University of Twente in the Department of Applied Mathematics. Previously, I was a postdoc at TU Darmstadt in the group of Pascal Schweitzer and a DFG Eigene Stelle researcher at RWTH Aachen in the group of Martin Grohe. Earlier, I did my PhD at IMSc Chennai and my B. Tech. at IIT Bombay. </div>
