@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-**SIGAlgo 2024** at TU/e *Eindhoven*. <br>
+Attending **SIGAlgo 2024** at TU/e *Eindhoven*. <br>
 Gave a talk "*Color Refinement: One Algorithm, Many Facets*".
