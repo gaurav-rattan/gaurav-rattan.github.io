@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-**LOGAMS 2024** at *Amsterdam*. Gave a talk "*Learning on Graphs with Weisfeiler-Leman*".  
+**LOGAMS 2024** at *Amsterdam*. <br>
+Gave a talk "*Learning on Graphs with Weisfeiler-Leman*".  
