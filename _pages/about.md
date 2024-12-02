@@ -6,7 +6,7 @@ subtitle: <a href='https://people.utwente.nl/g.rattan'>Assistant Professor</a> i
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Zilverling 4029, </p>
