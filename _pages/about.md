@@ -22,8 +22,8 @@ social: true # includes social icons at the bottom of the page
 My research is mainly focused on the domain of *graphs and networks*, such as
 
 * **Algorithms, Logic and Complexity** for Graphs
-  * *<a href = "https://link.springer.com/chapter/10.1007/978-3-319-22177-9_26">Graph Isomorphisms* </a>
-  * *<a href = "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2018.40">Graph Homomorphisms* </a>
+  * <a href = "https://link.springer.com/chapter/10.1007/978-3-319-22177-9_26">*Graph Isomorphisms* </a>
+  * <a href = "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2018.40">*Graph Homomorphisms* </a>
 
 * Theory and Applications of **Learning on Graphs**
   * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/4384"> Design and Analysis of *Graph Neural Networks* </a>   
