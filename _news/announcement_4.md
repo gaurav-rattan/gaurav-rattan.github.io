@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attending ** LNMB MOR Conference 2025** at Soesterberg (NL). 
+Attending **LNMB MOR Conference 2025** at Soesterberg (NL). 
