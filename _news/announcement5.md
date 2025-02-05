@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Guest lecture in the course **Machine Learning on Graphs** at the Learning and Reasoning Lab, VU Amsterdam. Thanks to Peter Bloom for the opportunity!
+Guest lecture in the course **Machine Learning on Graphs** at the Learning and Reasoning Lab, VU Amsterdam. <br>Thanks to Peter Bloem for the opportunity!
