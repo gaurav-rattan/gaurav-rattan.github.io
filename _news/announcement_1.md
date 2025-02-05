@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Attending **SIGAlgo 2024** at TU/e *Eindhoven*. <br>
+Attending <a href="https://www.sigalgo.nl/symposium/"> **SIGAlgo 2024** at TU/e *Eindhoven*. </a> <br>
 Gave a talk "*Color Refinement: One Algorithm, Many Facets*".
