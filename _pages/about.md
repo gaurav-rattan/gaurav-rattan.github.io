@@ -28,6 +28,8 @@ latest_posts:
   limit: 10 # leave blank to include all the blog posts
 ---
 
+<br> 
+
 My research is focused on the domain of <b>graphs and networks</b>, mainly, 
 
 * **Algorithms, Logic and Complexity** of Graph Problems
@@ -39,9 +41,7 @@ My research is focused on the domain of <b>graphs and networks</b>, mainly,
 Please find linked: my <a href="">CV (pdf)</a>, my <a href="https://scholar.google.com/citations?user=ZF_ryC4AAAAJ&hl=en">Google Scholar</a> page, and my <a href="https://www.linkedin.com/in/gaurav-rattan-6b980530b/">LinkedIn</a> page. 
 <br> 
 
-<hr>
-
-<br>
+<hr align="left" width="30%">
 
 My research has been generously supported by 
 * a **DFG Eigene Stelle** grant (2018-2022)
