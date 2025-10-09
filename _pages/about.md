@@ -20,12 +20,12 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit:  # leave blank to include all the blog posts
 ---
 
 My research is focused on the domain of <b>graphs and networks</b>, mainly, 
@@ -45,3 +45,11 @@ My research has been generously supported by
   * <a href="https://gepris.dfg.de/gepris/projekt/411032549"><i>Frameworks for Measuring Graph Similarity</i></a> 
 
 <br> 
+
+<br> 
+<div style="width:100 ptx; text-align: justify"> <big>Brief Bio.</big> Previously, I was a postdoc at <a href="https://www.tu-darmstadt.de/index.en.jsp">TU Darmstadt</a> (hosted by <a href="https://www.mathematik.tu-darmstadt.de/fb/personal/details/pascal_schweitzer.de.jsp"> Pascal Schweitzer</a>) and a DFG Eigene Stelle researcher at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1"> RWTH Aachen</a> (hosted by <a href="https://www.lics.rwth-aachen.de/go/id/ocwf"> Martin Grohe</a>). Before that, I obtained a PhD at <a href="https://www.imsc.res.in/">The Institute of Mathematical Sciences,  Chennai</a> (advised by <a href="https://www.imsc.res.in/~arvind/">V. Arvind </a>) and my B. Tech. at <a href="https://www.iitb.ac.in/"> IIT Bombay</a>. </div>
+
+<br>
+<br>
+
+
