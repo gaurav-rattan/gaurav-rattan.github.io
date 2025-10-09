@@ -39,6 +39,10 @@ My research is focused on the domain of <b>graphs and networks</b>, mainly,
 Please find linked: my <a href="">CV (pdf)</a>, my <a href="https://scholar.google.com/citations?user=ZF_ryC4AAAAJ&hl=en">Google Scholar</a> page, and my <a href="https://www.linkedin.com/in/gaurav-rattan-6b980530b/">LinkedIn</a> page. 
 <br> 
 
+<hr>
+
+<br>
+
 My research has been generously supported by 
 * a **DFG Eigene Stelle** grant (2018-2022)
   * <a href="https://gepris.dfg.de/gepris/projekt/411032549"><i>Frameworks for Measuring Graph Similarity</i></a> 
