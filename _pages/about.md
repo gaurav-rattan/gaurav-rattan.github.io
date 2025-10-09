@@ -2,18 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://people.utwente.nl/g.rattan'>Assistant Professor</a> in Applied Math, <a href='https://www.utwente.nl/en/'>University of Twente (NL)</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Zilverling 4029, </p>
+    <p>Hallenweg 19, </p>
+    <p>Enschede, 7522 NH</p>
+    <p>The Netherlands.</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +28,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research is focused on the domain of <b>graphs and networks</b>, mainly, 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+* **Algorithms, Logic and Complexity** of Graph Problems
+  * <a href = "https://link.springer.com/chapter/10.1007/978-3-319-22177-9_26">Graph Isomorphism</a>, <a href = "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2018.40">Graph Homomorphisms</a>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+* **Machine Learning on Graphs**, Theory and Applications
+  * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/4384">Design and Analysis of Graph Neural Networks</a>
+
+Please find linked: my <a href="">CV (pdf)</a>, my <a href="https://scholar.google.com/citations?user=ZF_ryC4AAAAJ&hl=en">Google Scholar</a> page, and my <a href="https://www.linkedin.com/in/gaurav-rattan-6b980530b/">LinkedIn</a> page. 
+<br> 
+
+My research has been generously supported by 
+
+* a **DFG Eigene Stelle** grant (2018-2022)
+  * <a href="https://gepris.dfg.de/gepris/projekt/411032549"><i>Frameworks for Measuring Graph Similarity</i></a> 
+
+<br> 
