@@ -7,11 +7,11 @@ subtitle: <a href='https://people.utwente.nl/g.rattan'>Assistant Professor</a> i
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -43,9 +43,7 @@ Please find linked: my <a href="">CV (pdf)</a>, my <a href="https://scholar.goog
 * a **DFG Eigene Stelle** grant (2018-2022)
   * <a href="https://gepris.dfg.de/gepris/projekt/411032549?language=en"><i>Frameworks for Measuring Graph Similarity</i></a> 
 
-<br>
-
-<div style="width:70 ptx; text-align: justify"> <big><b>Brief Bio.</b></big> Previously, I was a postdoc at <a href="https://www.tu-darmstadt.de/index.en.jsp">TU Darmstadt</a> (hosted by <a href="https://www.mathematik.tu-darmstadt.de/fb/personal/details/pascal_schweitzer.de.jsp"> Pascal Schweitzer</a>) and a DFG Eigene Stelle researcher at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1"> RWTH Aachen</a> (hosted by <a href="https://www.lics.rwth-aachen.de/go/id/ocwf"> Martin Grohe</a>). Before that, I obtained a PhD at <a href="https://www.imsc.res.in/">The Institute of Mathematical Sciences,  Chennai</a> (advised by <a href="https://www.imsc.res.in/~arvind/">V. Arvind </a>) and my B. Tech. at <a href="https://www.iitb.ac.in/"> IIT Bombay</a>. </div>
+<div style="width:70 ptx; text-align: justify"> <big><b>Brief Bio.</b></big> Previously, I was a postdoc at <a href="https://www.tu-darmstadt.de/index.en.jsp">TU Darmstadt</a> (hosted by <a href="https://www.mathematik.tu-darmstadt.de/fb/personal/details/pascal_schweitzer.de.jsp"> Pascal Schweitzer</a>) and a DFG Eigene Stelle researcher at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1"> RWTH Aachen</a> (hosted by <a href="https://www.lics.rwth-aachen.de/go/id/ocwf"> Martin Grohe</a>). Before that, I obtained a PhD at <a href="https://www.imsc.res.in/">The Institute of Mathematical Sciences,  Chennai</a> (advised by <a href="https://www.imsc.res.in/~arvind/">V. Arvind</a>) and my B. Tech. at <a href="https://www.iitb.ac.in/"> IIT Bombay</a>. </div>
 
 <br>
 <br>
