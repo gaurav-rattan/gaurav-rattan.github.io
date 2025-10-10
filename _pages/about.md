@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://people.utwente.nl/g.rattan'>Assistant Professor</a> in Applied Math <br> <a href="https://www.utwente.nl/en/eemcs/dmmp/">DMMP</a> research group, <a href='https://www.utwente.nl/en/'>University of Twente (NL)</a>
+subtitle: <a href='https://people.utwente.nl/g.rattan'>Assistant Professor</a> in Applied Math, <a href='https://www.utwente.nl/en/'>University of Twente (NL)</a>
 
 profile:
   align: right
