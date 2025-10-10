@@ -31,7 +31,7 @@ latest_posts:
   * <a href = "https://link.springer.com/chapter/10.1007/978-3-319-22177-9_26">Graph Isomorphism</a>, <a href = "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2018.40">Graph Homomorphisms</a>
 
 * **Machine Learning on Graphs**, Theory and Applications
-  * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/4384">Design and Analysis of Graph Neural Networks</a>
+  * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/4384">Theoretical Foundations of Graph Neural Networks</a>
 
 Please find linked: my <a href="">CV (pdf)</a>, my <a href="https://scholar.google.com/citations?user=ZF_ryC4AAAAJ&hl=en">Google Scholar</a> page, and my <a href="https://www.linkedin.com/in/gaurav-rattan-6b980530b/">LinkedIn</a> page. 
 <br> 
