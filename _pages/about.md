@@ -41,7 +41,7 @@ Please find linked: my <a href="">CV (pdf)</a>, my <a href="https://scholar.goog
 <br>
 <big>My research has been generously supported by </big>
 * a **DFG Eigene Stelle** grant (2018-2022)
-  * <a href="https://gepris.dfg.de/gepris/projekt/411032549"><i>Frameworks for Measuring Graph Similarity</i></a> 
+  * <a href="https://gepris.dfg.de/gepris/projekt/411032549?language=en"><i>Frameworks for Measuring Graph Similarity</i></a> 
 
 <br>
 
