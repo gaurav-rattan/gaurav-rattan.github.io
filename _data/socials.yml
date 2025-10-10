@@ -8,12 +8,15 @@
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-dblp_url: https://dblp.org/pid/132/6971.html # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: g.rattan@utwente.nl # your email address
+scholar_userid: ZF_ryC4AAAAJ # your Google Scholar ID
+dblp_url: https://dblp.org/pid/132/6971.html # your DBLP profile url
+linkedin_username: gaurav-rattan-6b980530b # your LinkedIn user name
+github_username: gaurav-rattan # your GitHub user name
+orcid_id: 0000-0002-5095-860X # your ORCID ID
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: gaurav-rattan # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -24,17 +27,14 @@ github_username: gaurav-rattan # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: gaurav-rattan-6b980530b # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: 0000-0002-5095-860X # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: ZF_ryC4AAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
