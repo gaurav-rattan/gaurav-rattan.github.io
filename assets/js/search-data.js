@@ -440,13 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-attending-diamant-autumn-symposium-2024-at-lunteren",
+          title: 'Attending DIAMANT Autumn Symposium 2024 at Lunteren.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-attending-logams-2024-at-amsterdam-gave-a-talk-learning-on-graphs-with-weisfeiler-leman",
+          title: 'Attending LOGAMS 2024 at Amsterdam. Gave a talk “Learning on Graphs with Weisfeiler-Leman”....',
           description: "",
           section: "News",},{id: "news-attending-sigalgo-2024-at-tu-e-eindhoven-gave-a-talk-color-refinement-one-algorithm-many-facets",
           title: 'Attending SIGAlgo 2024 at TU/e Eindhoven. Gave a talk “Color Refinement: One Algorithm,...',
