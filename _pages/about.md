@@ -25,7 +25,7 @@ latest_posts:
 ---
 
 <br>
-My research is focused on the domain of <b>graphs and networks</b>, mainly, 
+<big>My research is focused on the domain of <b>graphs and networks</b>, mainly, </big> 
 
 * **Algorithms, Logic and Complexity** of Graph Problems
   * <a href = "https://link.springer.com/chapter/10.1007/978-3-319-22177-9_26">Graph Isomorphism</a>, <a href = "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2018.40">Graph Homomorphisms</a>
@@ -36,15 +36,14 @@ My research is focused on the domain of <b>graphs and networks</b>, mainly,
 Please find linked: my <a href="">CV (pdf)</a>, my <a href="https://scholar.google.com/citations?user=ZF_ryC4AAAAJ&hl=en">Google Scholar</a> page, and my <a href="https://www.linkedin.com/in/gaurav-rattan-6b980530b/">LinkedIn</a> page. 
 <br> 
 
-<hr align="left" width="40%">
+<hr align="left" width="50%">
 
 <br>
-My research has been generously supported by 
+<big>My research has been generously supported by </big>
 * a **DFG Eigene Stelle** grant (2018-2022)
   * <a href="https://gepris.dfg.de/gepris/projekt/411032549"><i>Frameworks for Measuring Graph Similarity</i></a> 
-<br> <br><br>
 
-
+<br>
 
 <div style="width:70 ptx; text-align: justify"> <big><b>Brief Bio.</b></big> Previously, I was a postdoc at <a href="https://www.tu-darmstadt.de/index.en.jsp">TU Darmstadt</a> (hosted by <a href="https://www.mathematik.tu-darmstadt.de/fb/personal/details/pascal_schweitzer.de.jsp"> Pascal Schweitzer</a>) and a DFG Eigene Stelle researcher at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1"> RWTH Aachen</a> (hosted by <a href="https://www.lics.rwth-aachen.de/go/id/ocwf"> Martin Grohe</a>). Before that, I obtained a PhD at <a href="https://www.imsc.res.in/">The Institute of Mathematical Sciences,  Chennai</a> (advised by <a href="https://www.imsc.res.in/~arvind/">V. Arvind </a>) and my B. Tech. at <a href="https://www.iitb.ac.in/"> IIT Bombay</a>. </div>
 
