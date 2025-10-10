@@ -50,7 +50,7 @@ linkedin_username: gaurav-rattan-6b980530b # your LinkedIn user name
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.utwente.nl/logo-stacked.png # can be png, svg, jpg
-  title: 
-  url: https://people.utwente.nl/g.rattan
+# custom_social: # can be any name here other than the ones already defined above
+  #logo:  # can be png, svg, jpg
+  #title: 
+  #url: https://people.utwente.nl/g.rattan
