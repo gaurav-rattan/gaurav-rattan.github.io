@@ -33,7 +33,7 @@ latest_posts:
 * **Machine Learning on Graphs**, Theory and Applications
   * <a href = "https://ojs.aaai.org/index.php/AAAI/article/view/4384">Theoretical Foundations of Graph Neural Networks</a>
 
-Please find linked: my <a href="">CV (pdf)</a>, my <a href="https://scholar.google.com/citations?user=ZF_ryC4AAAAJ&hl=en">Google Scholar</a> page, and my <a href="https://www.linkedin.com/in/gaurav-rattan-6b980530b/">LinkedIn</a> page. 
+Please find linked: my <a href="https://scholar.google.com/citations?user=ZF_ryC4AAAAJ&hl=en">Google Scholar</a> page and my <a href="https://www.linkedin.com/in/gaurav-rattan-6b980530b/">LinkedIn</a> page. 
 <br> 
 
 <hr align="left" width="50%">
