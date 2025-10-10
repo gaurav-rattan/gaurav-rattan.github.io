@@ -49,7 +49,7 @@ ninja.data = [{
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/the_godfather.html";
             },},{id: "news-attending-diamant-autumn-symposium-2024-at-lunteren",
           title: 'Attending DIAMANT Autumn Symposium 2024 at Lunteren.',
           description: "",
