@@ -40,10 +40,10 @@ Please find linked: my <a href="https://scholar.google.com/citations?user=ZF_ryC
 
 <br>
 <big>My research has been generously supported by </big>
-* a **DFG Eigene Stelle** grant (2018-2022)
+* a **DFG Eigene Stelle** grant (2019-2022)
   * <a href="https://gepris.dfg.de/gepris/projekt/411032549?language=en"><i>Frameworks for Measuring Graph Similarity</i></a> 
 
-<div style="width:70 ptx; text-align: justify"> <big><b>Brief Bio.</b></big> I joined the <a href="https://www.utwente.nl/en/eemcs/dmmp/">DMMP</a>a> group as an Assistant Professor in May 2024. Previously, I was a postdoc at <a href="https://www.tu-darmstadt.de/index.en.jsp">TU Darmstadt</a> (hosted by <a href="https://www.mathematik.tu-darmstadt.de/fb/personal/details/pascal_schweitzer.de.jsp"> Pascal Schweitzer</a>) and a DFG Eigene Stelle researcher at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1"> RWTH Aachen</a> (hosted by <a href="https://www.lics.rwth-aachen.de/go/id/ocwf"> Martin Grohe</a>). Earlier, I obtained my PhD in 2017 at <a href="https://www.imsc.res.in/">The Institute of Mathematical Sciences,  Chennai</a> (advised by <a href="https://www.imsc.res.in/~arvind/">V. Arvind</a>). Much earlier, I did my undergraduate studies at <a href="https://www.iitb.ac.in/"> IIT Bombay</a>. </div>
+<div style="width:70 ptx; text-align: justify"> <big><b>Brief Bio.</b></big> I joined the <a href="https://www.utwente.nl/en/eemcs/dmmp/">DMMP</a> group as an Assistant Professor in May 2024. Previously, I was a postdoc at <a href="https://www.tu-darmstadt.de/index.en.jsp">TU Darmstadt</a> (hosted by <a href="https://www.mathematik.tu-darmstadt.de/fb/personal/details/pascal_schweitzer.de.jsp"> Pascal Schweitzer</a>) and a DFG Eigene Stelle researcher at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1"> RWTH Aachen</a> (hosted by <a href="https://www.lics.rwth-aachen.de/go/id/ocwf"> Martin Grohe</a>). Earlier, I obtained my PhD at <a href="https://www.imsc.res.in/">The Institute of Mathematical Sciences,  Chennai</a> (advised by <a href="https://www.imsc.res.in/~arvind/">V. Arvind</a>) in 2017. Before that, I obtained my Bachelors degree at <a href="https://www.iitb.ac.in/"> IIT Bombay</a>. </div>
 
 <br>
 <br>
