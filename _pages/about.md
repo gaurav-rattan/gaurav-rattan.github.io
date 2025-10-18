@@ -39,7 +39,7 @@ Please find linked: my <a href="https://scholar.google.com/citations?user=ZF_ryC
 <hr align="left" width="50%">
 
 <br>
-<big>My research has been generously supported by </big>
+<big>My research has been supported by </big>
 * a **DFG Eigene Stelle** grant (2019-2022)
   * <a href="https://gepris.dfg.de/gepris/projekt/411032549?language=en"><i>Frameworks for Measuring Graph Similarity</i></a> 
 
