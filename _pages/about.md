@@ -39,7 +39,10 @@ Please find linked: my <a href="https://scholar.google.com/citations?user=ZF_ryC
 <hr align="left" width="50%">
 
 <br>
-<big>My research has been supported by </big>
+<big>My research has received generous support from </big>
+* an **NWO VIDI Talent** grant (2025 - )
+  * <a href="https://www.nwo.nl/en/news/149-vidi-applications-granted-to-talented-researchers"><i>Learning on Graphs: Symmetry Meets Structure</i> (**LOGSMS**)</a> 
+
 * a **DFG Eigene Stelle** grant (2019-2022)
   * <a href="https://gepris.dfg.de/gepris/projekt/411032549?language=en"><i>Frameworks for Measuring Graph Similarity</i></a> 
 
@@ -51,5 +54,6 @@ I am also a participant in the Nationaal Groeifonds <a href="https://www.polaris
 
 <br>
 <br>
+
 
 
