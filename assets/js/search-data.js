@@ -88,7 +88,7 @@ ninja.data = [{
           title: 'Attending the SIGalgo symposium at Utrecht.',
           description: "",
           section: "News",},{id: "news-my-proposal-logsms-was-selected-for-the-nwo-vidi-talent-grant-five-year-project-amp-gt-1m-with-ut-support",
-          title: 'My proposal LOGSMS was selected for the NWO Vidi Talent grant (five-year project,...',
+          title: 'My proposal LOGSMS was selected for the NWO Vidi Talent grant. Five-year project,...',
           description: "",
           section: "News",},{
         id: 'social-email',
