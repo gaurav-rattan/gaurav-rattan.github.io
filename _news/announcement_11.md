@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-My proposal LOGSMS was selected for the NWO Vidi Talent grant (approx. 1M &#8364; over next five years)!
+My proposal LOGSMS was selected for the <a href="https://www.nwo.nl/en/news/149-vidi-applications-granted-to-talented-researchers">NWO Vidi Talent</a> grant (> 1M &#8364; with UT support, over next five years).
 
 
