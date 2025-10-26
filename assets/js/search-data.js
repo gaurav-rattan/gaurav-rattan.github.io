@@ -87,8 +87,8 @@ ninja.data = [{
           section: "News",},{id: "news-attending-the-sigalgo-symposium-at-utrecht",
           title: 'Attending the SIGalgo symposium at Utrecht.',
           description: "",
-          section: "News",},{id: "news-my-proposal-logsms-was-selected-for-the-nwo-vidi-talent-grant-my-team-will-receive-funding-approx-1m-with-ut-contributions-over-the-next-five-years-to-work-on-next-generation-ml-for-graphs-and-networks",
-          title: 'My proposal LOGSMS was selected for the NWO Vidi Talent grant. My team...',
+          section: "News",},{id: "news-my-proposal-logsms-was-selected-for-the-nwo-vidi-talent-grant-over-the-next-five-years-my-team-will-receive-approx-1m-with-ut-contributions-to-develop-next-generation-ml-for-graphs-and-networks",
+          title: 'My proposal LOGSMS was selected for the NWO Vidi Talent grant. Over the...',
           description: "",
           section: "News",},{
         id: 'social-email',
