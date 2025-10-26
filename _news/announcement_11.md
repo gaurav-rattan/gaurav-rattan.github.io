@@ -6,6 +6,6 @@ related_posts: false
 ---
 
 My proposal LOGSMS was selected for the <a href="https://www.nwo.nl/en/news/149-vidi-applications-granted-to-talented-researchers">NWO Vidi Talent</a> grant. <br>
-My team will receive funding (approx. 1M &#8364; with UT contributions) over the next five years, to work on next-generation ML for graphs and networks. 
+Over the next five years, my team will receive approx. 1M &#8364; (with UT contributions) to develop next-generation ML for graphs and networks. 
 
 
