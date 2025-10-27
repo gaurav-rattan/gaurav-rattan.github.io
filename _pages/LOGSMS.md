@@ -61,6 +61,36 @@ nav_order: 5
   <p>No LOGSMS-tagged publications yet. First preprints coming soon.</p>
 {% endif %}
 
+
+
 {% include logsms/section.html title="Open Positions" id="open-positions" %}
 <p>Future hiring info goes here.</p>
+
+{% include logsms/section.html title="News" id="news" %}
+
+{%- assign logsms_posts = site.news | where_exp: "p", "p.tags contains 'logsms'" -%}
+{%- assign recent = logsms_posts | slice: 0, 6 -%}
+
+{% if recent and recent.size > 0 %}
+  <ul class="logsms-news">
+  {% for n in recent %}
+    <li>
+      <a href="{{ n.url | relative_url }}">{{ n.title }}</a>
+      <span class="date">— {{ n.date | date: "%b %d, %Y" }}</span>
+      {%- if n.excerpt -%}
+        <div class="excerpt">{{ n.excerpt | strip_html | truncate: 140 }}</div>
+      {%- endif -%}
+    </li>
+  {% endfor %}
+  </ul>
+
+  {% if logsms_posts.size > recent.size %}
+    <p class="more">
+      <a href="{{ '/tag/logsms/' | relative_url }}">All LOGSMS news →</a>
+    </p>
+  {% endif %}
+{% else %}
+  <p>No LOGSMS news yet. Stay tuned!</p>
+{% endif %}
+
 
