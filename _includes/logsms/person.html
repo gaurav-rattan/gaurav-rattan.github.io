@@ -1,0 +1,24 @@
+{% comment %}
+  LOGSMS person card
+  Usage: {% include logsms/person.html person=p %}
+{% endcomment %}
+
+<div class="person-card">
+  {% if include.person.avatar %}
+    <img class="avatar" src="{{ include.person.avatar }}" alt="Photo of {{ include.person.name }}">
+  {% endif %}
+
+  <div class="info">
+    <h4 class="name">{{ include.person.name }}</h4>
+    {% if include.person.role %}<p class="role">{{ include.person.role }}</p>{% endif %}
+
+    <p class="links">
+      {% if include.person.website %}<a href="{{ include.person.website }}">web</a>{% endif %}
+      {% if include.person.scholar %} · <a href="{{ include.person.scholar }}">scholar</a>{% endif %}
+      {% if include.person.orcid %} · <a href="https://orcid.org/{{ include.person.orcid }}">orcid</a>{% endif %}
+      {% if include.person.github %} · <a href="https://github.com/{{ include.person.github }}">github</a>{% endif %}
+    </p>
+
+    {% if include.person.blurb %}<p class="blurb">{{ include.person.blurb }}</p>{% endif %}
+  </div>
+</div>

@@ -33,6 +33,12 @@ nav_order: 5
   </p>
 </div>
 
+{% include logsms/section.html title="Team" id="team" %}
+<div class="logsms-team-grid">
+  {% for p in site.data.logsms_team %}
+    {% include logsms/person.html person=p %}
+  {% endfor %}
+</div>
 
 {% include logsms/section.html title="Publications" id="publications" %}
 <p>We’ll add auto-listing later.</p>

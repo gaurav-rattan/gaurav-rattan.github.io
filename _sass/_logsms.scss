@@ -82,3 +82,24 @@
 .logsms-section:hover .anchor {
   opacity: .9;                /* make # visible on hover */
 }
+
+
+/* Team cards (Step 3) */
+.logsms-team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
+.person-card {
+  display: grid;
+  grid-template-columns: 64px 1fr;
+  gap: 12px;
+  padding: 12px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+.person-card .avatar { width: 64px; height: 64px; border-radius: 50%; object-fit: cover; }
+.person-card .name { margin: 0; }
+.person-card .role { margin: 2px 0 6px 0; color: var(--text-muted); }
+.person-card .links { margin: 0 0 6px 0; }
+.person-card .blurb { margin: 0; }

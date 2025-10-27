@@ -1,0 +1,18 @@
+# _data/logsms_team.yml
+- name: Gaurav Rattan
+  role: Principal Investigator
+  website: https://gaurav-rattan.github.io
+  scholar: https://scholar.google.com/citations?user=ZF_ryC4AAAAJ
+  orcid: 0000-0002-5095-860X
+  github: Gaurav-rattan
+  blurb: Graphs and Networks
+  avatar: /assets/img/prof_pic.jpg   # optional
+
+# Add more:
+# - name: Jane Doe
+#   role: PhD Researcher (2026–)
+#   website: https://...
+#   scholar: https://...
+#   github: jane-doe
+#   blurb: Interests in GNNs and evolving networks.
+#   avatar: /assets/img/jane.jpg
