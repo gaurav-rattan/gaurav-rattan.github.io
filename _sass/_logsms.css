@@ -1,0 +1,64 @@
+/*───────────────────────────────────────────────
+  LOGSMS hero styling
+  This styles the <div class="logsms-hero"> block
+  from your logsms.md page.
+───────────────────────────────────────────────*/
+
+.logsms-hero {
+  /* Space inside the hero box: top/bottom 2.2 rem, left/right 1.2 rem */
+  padding: 2.2rem 1.2rem;
+
+  /* Rounded corners for a soft look */
+  border-radius: 14px;
+
+  /* 
+    Multi-layered background:
+    - Two faint radial gradients add subtle color glow.
+    - The last linear gradient keeps base color aligned with the site theme.
+  */
+  background:
+    radial-gradient(70% 80% at 90% 0%, rgba(20,184,166,.10), transparent 60%),
+    radial-gradient(60% 70% at 10% 20%, rgba(15,23,42,.08), transparent 60%),
+    linear-gradient(180deg, var(--global-bg), var(--global-bg));
+}
+
+/* Title spacing */
+.logsms-hero h1 {
+  margin: 0 0 .25rem 0;   /* small space below the title */
+}
+
+/* Subtitle: slightly bold, just below the title */
+.logsms-hero .subtitle {
+  font-weight: 600;
+  margin: 0 0 .25rem 0;
+}
+
+/* Main description paragraph */
+.logsms-hero .subdesc {
+  color: var(--text-muted);   /* use site’s muted-gray text color */
+  max-width: 60ch;            /* wrap lines after roughly 60 characters */
+}
+
+/* Space before the row of buttons */
+.logsms-hero .cta-row {
+  margin-top: .75rem;
+}
+
+/*───────────────────────────────────────────────
+  Generic button style for the CTAs
+───────────────────────────────────────────────*/
+.btn-ghost {
+  display: inline-block;           /* sit next to each other horizontally */
+  margin-right: .5rem;             /* space between buttons */
+  padding: .45rem .8rem;           /* inner spacing for touch/click comfort */
+  border: 1px solid var(--border); /* subtle outline color from theme */
+  border-radius: 10px;             /* softly rounded corners */
+  text-decoration: none;           /* remove underline from links */
+  color: inherit;                  /* use page text color */
+  transition: background 0.2s;     /* smooth hover effect */
+}
+
+/* Light hover feedback */
+.btn-ghost:hover {
+  background: rgba(0, 0, 0, .04);
+}
