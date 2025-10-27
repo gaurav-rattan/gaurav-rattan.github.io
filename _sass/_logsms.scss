@@ -62,3 +62,23 @@
 .btn-ghost:hover {
   background: rgba(0, 0, 0, .04);
 }
+
+/*───────────────────────────────────────────────
+  LOGSMS section headers (Step 2)
+───────────────────────────────────────────────*/
+.logsms-section {
+  margin-top: 2.25rem;        /* space above each new section */
+  position: relative;
+  scroll-margin-top: 5rem;    /* prevents navbar overlap when linking */
+}
+
+.logsms-section .anchor {
+  margin-left: .5rem;
+  opacity: .45;
+  text-decoration: none;
+  transition: opacity 0.15s;
+}
+
+.logsms-section:hover .anchor {
+  opacity: .9;                /* make # visible on hover */
+}

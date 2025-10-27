@@ -33,10 +33,10 @@ nav_order: 5
   </p>
 </div>
 
-<!-- Placeholder sections for later steps -->
-<h2 id="publications">Publications (placeholder)</h2>
+
+{% include logsms/section.html title="Publications" id="publications" %}
 <p>We’ll add auto-listing later.</p>
 
-<h2 id="open-positions">Open Positions (placeholder)</h2>
+{% include logsms/section.html title="Open Positions" id="open-positions" %}
 <p>Future hiring info goes here.</p>
 
