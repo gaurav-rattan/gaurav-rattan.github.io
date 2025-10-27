@@ -42,6 +42,25 @@ nav_order: 5
 
 {% include logsms/section.html title="Publications" id="publications" %}
 
+{% assign pubs = site.publications | where_exp: "p", "p.tags contains 'logsms'" | sort: 'year' | reverse %}
+{% if pubs and pubs.size > 0 %}
+  <ul class="paper-list">
+    {% for p in pubs %}
+      <li>
+        <strong>{{ p.title }}</strong>
+        {% if p.year %} ({{ p.year }}){% endif %}
+        <br>
+        {% if p.authors %}<span class="text-muted">{{ p.authors }}</span><br>{% endif %}
+        {% if p.arxiv %}<a href="{{ p.arxiv }}">arXiv</a>{% endif %}
+        {% if p.doi %}{% if p.arxiv %} · {% endif %}<a href="https://doi.org/{{ p.doi }}">DOI</a>{% endif %}
+        {% if p.code %}{% if p.arxiv or p.doi %} · {% endif %}<a href="{{ p.code }}">code</a>{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No LOGSMS-tagged publications yet. First preprints coming soon.</p>
+{% endif %}
+
 
 
 
