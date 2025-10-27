@@ -1,0 +1,14 @@
+{% comment %}
+  ────────────────────────────────────────────────
+  LOGSMS Section Header Include
+  Usage:
+    {% include logsms/section.html title="Team" %}
+    {% include logsms/section.html title="Open positions" id="open-positions" %}
+  ────────────────────────────────────────────────
+{% endcomment %}
+
+{% assign sid = include.id | default: include.title | slugify %}
+<h2 id="{{ sid }}" class="logsms-section">
+  {{ include.title }}
+  <a class="anchor" href="#{{ sid }}" aria-label="Link to {{ include.title }}">#</a>
+</h2>
