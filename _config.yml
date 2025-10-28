@@ -203,6 +203,7 @@ exclude:
   - assets/jupyter/blog.ipynb
   - _pages/profiles.md
   - _pages/books.md
+  - _pages/LOGSMS.md
 
 
 keep_files:
