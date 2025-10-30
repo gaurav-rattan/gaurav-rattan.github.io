@@ -12,19 +12,19 @@ nav_order: 5
 
   <!-- Short tagline -->
   <p class="subtitle">
-    <b>L</b>earning <b>O</b>n <b>G</b>raphs: *S*ymmetry *M*eets *S*tructure
+    <b>L</b>earning <b>O</b>n <b>G</b>raphs: <b>S</b>ymmetry <b>M</b>eets <b>S</b>tructure
   </p>
 
   <!-- One-paragraph description -->
   <p class="subdesc">
-    LOGSMS builds the <b>mathematical** foundations for **designing and analyzing**  
-    next-generation machine learning models for **graphs and networks**. 
+    LOGSMS builds the <i>mathematical</i>i> foundations for <i>designing and analyzing</i>  
+    next-generation machine learning models for <i>graphs and networks</i>. 
   </p>
 
   <!-- Call-to-action buttons -->
   <p class="cta-row">
-    <a class="btn-ghost" href="#news">Latest News</a>
-    <a class="btn-ghost" href="#team">Team Members</a>
+    <a class="btn-ghost" href="#news">News</a>
+    <a class="btn-ghost" href="#team">Team</a>
     <a class="btn-ghost" href="#publications">Publications</a>
     <a class="btn-ghost" href="#software">Software</a>
     <a class="btn-ghost" href="#hiring">Hiring</a>
