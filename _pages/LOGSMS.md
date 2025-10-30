@@ -2,7 +2,7 @@
 layout: page
 title: LOGSMS
 permalink: /LOGSMS/
-nav: true
+nav: false
 nav_order: 5
 
 ---
@@ -12,12 +12,12 @@ nav_order: 5
 
   <!-- Short tagline -->
   <p class="subtitle">
-    *L*earning *O*n *G*raphs: *S*ymmetry *M*eets *S*tructure
+    <b>L</b>earning <b>O</b>n <b>G</b>raphs: *S*ymmetry *M*eets *S*tructure
   </p>
 
   <!-- One-paragraph description -->
   <p class="subdesc">
-    LOGSMS builds the **mathematical** foundations for **designing and analyzing**  
+    LOGSMS builds the <b>mathematical** foundations for **designing and analyzing**  
     next-generation machine learning models for **graphs and networks**. 
   </p>
 
@@ -34,22 +34,37 @@ nav_order: 5
 {% include logsms/section.html title="News" id="news" %}
 
 <p>LOGSMS starts January 2026!</p>
+<br>
+<hr align="left" width="70%">
+<br>
 
 {% include logsms/section.html title="Team" id="team" %}
 
 <p>LOGSMS starts January 2026. Hiring soon!</p>
+<br>
+<hr align="left" width="70%">
+<br>
 
 {% include logsms/section.html title="Publications" id="publications" %}
  
 <p>LOGSMS starts January 2026. First preprints coming soon!</p>
+<br>
+<hr align="left" width="70%">
+<br>
 
 {% include logsms/section.html title="Software" id="software" %}
 
 <p>LOGSMS starts January 2026. Stay tuned!</p>
+<br>
+<hr align="left" width="70%">
+<br>
 
 {% include logsms/section.html title="Hiring" id="hiring" %}
 
 <p>PhD positions to be announced very soon. Stay tuned! </p>
 
 
+<br>
+<hr align="left" width="70%">
+<br>
 
