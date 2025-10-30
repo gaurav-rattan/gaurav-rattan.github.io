@@ -10,11 +10,8 @@ nav_order: 5
 <!-- HERO BLOCK — the introductory section of the page -->
 <div class="logsms-hero">
 
-  <!-- Short tagline -->
-  <p class="subtitle">
-    <b>L</b>earning <b>O</b>n <b>G</b>raphs: <b>S</b>ymmetry <b>M</b>eets <b>S</b>tructure
-  </p>
-
+  <h1><b>L</b>earning <b>O</b>n <b>G</b>raphs: <b>S</b>ymmetry <b>M</b>eets <b>S</b>tructure</h1>
+  
   <!-- One-paragraph description -->
   <p class="subdesc">
     LOGSMS builds the next-generation machine learning models for <i>graphs and networks</i>. 
