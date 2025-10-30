@@ -13,7 +13,7 @@ nav_order: 5
   
   <!-- One-paragraph description -->
   <p class="subdesc">
-    LOGSMS builds the <i>next-generation</i>i> machine learning models for <i>graphs and networks</i>. 
+    LOGSMS builds the <i>next-generation</i> machine learning models for <i>graphs and networks</i>. 
   </p>
 
   <br>
