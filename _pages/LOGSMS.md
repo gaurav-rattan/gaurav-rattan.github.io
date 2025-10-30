@@ -17,8 +17,7 @@ nav_order: 5
 
   <!-- One-paragraph description -->
   <p class="subdesc">
-    LOGSMS builds the <i>mathematical</i> foundations for <i>designing and analyzing</i>  
-    next-generation machine learning models for <i>graphs and networks</i>. 
+    LOGSMS builds the next-generation machine learning models for <i>graphs and networks</i>. 
   </p>
 
   <!-- Call-to-action buttons -->
@@ -30,6 +29,10 @@ nav_order: 5
     <a class="btn-ghost" href="#hiring">Hiring</a>
   </p>
 </div>
+
+<br>
+<hr align="left" width="80%">
+<br>
 
 {% include logsms/section.html title="News" id="news" %}
 
