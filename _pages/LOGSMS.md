@@ -2,7 +2,7 @@
 layout: page
 title: LOGSMS
 permalink: /LOGSMS/
-nav: false
+nav: true
 nav_order: 5
 
 ---
