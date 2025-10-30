@@ -17,7 +17,7 @@ nav_order: 5
 
   <!-- One-paragraph description -->
   <p class="subdesc">
-    LOGSMS builds the <i>mathematical</i>i> foundations for <i>designing and analyzing</i>  
+    LOGSMS builds the <i>mathematical</i> foundations for <i>designing and analyzing</i>  
     next-generation machine learning models for <i>graphs and networks</i>. 
   </p>
 
