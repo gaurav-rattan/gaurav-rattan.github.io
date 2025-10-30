@@ -20,6 +20,7 @@ nav_order: 5
     LOGSMS builds the next-generation machine learning models for <i>graphs and networks</i>. 
   </p>
 
+  <br>
   <!-- Call-to-action buttons -->
   <p class="cta-row">
     <a class="btn-ghost" href="#news">News</a>
