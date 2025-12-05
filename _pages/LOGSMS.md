@@ -19,7 +19,7 @@ nav_order: 5
   <br>
   <!-- Call-to-action buttons -->
   <p class="cta-row">
-    <a class="btn-ghost" href="#news">News</a>
+    <a class="btn-ghost" href="#news" style="margin-right: 10px">News</a>
     <a class="btn-ghost" href="#team">Team</a>
     <a class="btn-ghost" href="#publications">Publications</a>
     <a class="btn-ghost" href="#software">Software</a>
@@ -28,12 +28,12 @@ nav_order: 5
 </div>
 
 <br>
-<hr align="left" width="80%">
+<hr align="left" width="90%">
 <br>
 
 {% include logsms/section.html title="News" id="news" %}
 
-<p>LOGSMS starts January 2026!</p>
+<p>LOGSMS starts January 2026. Stay tuned!</p>
 <br>
 <hr align="left" width="70%">
 <br>
