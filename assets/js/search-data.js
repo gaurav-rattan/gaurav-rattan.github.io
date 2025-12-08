@@ -59,17 +59,6 @@ ninja.data = [{
             window.open("https://www.nwo.nl/en/news/149-vidi-applications-granted-to-talented-researchers", "_blank");
           
         },
-      },{id: "post-hiring-begins",
-        
-          title: "Hiring begins!",
-        
-        description: "One PhD position in Graph Neural Networks",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/pseudocode/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
