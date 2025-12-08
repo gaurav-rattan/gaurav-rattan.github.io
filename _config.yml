@@ -123,6 +123,12 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # DELETED STUFF HERE ------- RECOVER LATER -------
+external_sources:
+  - name: NWO
+    posts:
+      - url: https://www.nwo.nl/en/news/149-vidi-applications-granted-to-talented-researchers
+        published_date: 2025-10-23
+
 
 
 # -----------------------------------------------------------------------------
