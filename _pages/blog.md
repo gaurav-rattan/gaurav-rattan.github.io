@@ -40,28 +40,20 @@ pagination:
 
 	
 	<p class="card-text">
-        *Mathematical Foundations of Machine Learning on Graphs and Networks*
+        <i>Mathematical Foundations of Machine Learning on Graphs and Networks</I>
        </p>
 
 
-      <ul class="fa-ul mb-0" style="margin-left: 1.5em;">
+      <ul>
         <li>
-          <span class="fa-li"><i class="fas fa-check-circle"></i></span>
           How can we mathematically characterize the power and limitations of existing graph learning models? 
         </li>
         <li>
-          <span class="fa-li"><i class="fas fa-check-circle"></i></span>
-          How can we mathematically characterize the power and limitations of existing graph learning models? 
-        </li>
+          How can we design provably powerful graph learning models based on these insights?         	</li>
         <li>
-          <span class="fa-li"><i class="fas fa-check-circle"></i></span>
-          How can we mathematically characterize the power and limitations of existing graph learning models? 
+          How can we extend the realm of classical graph theory to shed more light on graph learning models? 
         </li>
       </ul>
-	<br> 
-      <p class="card-text">
-        The LOGSMS project is supported by an **NWO VIDI Talent** grant. 
-      </p>
 
     </div>
   </div>
