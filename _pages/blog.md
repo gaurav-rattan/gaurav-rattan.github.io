@@ -52,9 +52,8 @@ pagination:
           How can we extend the realm of classical graph theory to shed more light on graph learning models? 
         </li>
       </ul>
-<br>
 	<p class="card-text">
-        The LOGSMS team will design <i>next-generation</i> machine learning tools for graphs and networks.
+        Over the next five years, the LOGSMS team will design <i>next-generation</i> machine learning tools for graphs and networks.
        </p>
 
 
