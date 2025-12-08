@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-hiring-begins",
+        },{id: "post-149-vidi-applications-granted-to-talented-researchers-nwo",
+        
+          title: '149 Vidi applications granted to talented researchers | NWO <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "NWO has granted a maximum of 850.000 euros to 149 scientists from the domain Science (ENW), Applied and Engineering Sciences (AES) and Social Sciences and Humanities (SSH) domains, as well as Health, Research and Development (ZonMw). With the help of the Vidi grant, the talented scientists can start their own line of research and further develop their talent.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.nwo.nl/en/news/149-vidi-applications-granted-to-talented-researchers", "_blank");
+          
+        },
+      },{id: "post-hiring-begins",
         
           title: "Hiring begins!",
         
