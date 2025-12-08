@@ -30,6 +30,36 @@ pagination:
   {% endif %}
 
 
+<section class="mt-4 mb-4">
+  <div class="card border-0 shadow-sm">
+    <div class="card-body">
+      <h3 class="card-title mb-3">
+        <i class="fas fa-lightbulb mr-2"></i>
+        A short sentence introducing my work
+      </h3>
+
+      <p class="card-text">
+        I focus on a few key directions that connect theory, algorithms, and real-world applications:
+      </p>
+
+      <ul class="fa-ul mb-0">
+        <li>
+          <span class="fa-li"><i class="fas fa-check-circle"></i></span>
+          First bullet point with a slightly longer, descriptive sentence.
+        </li>
+        <li>
+          <span class="fa-li"><i class="fas fa-check-circle"></i></span>
+          Second bullet point explaining another focus area or interest.
+        </li>
+        <li>
+          <span class="fa-li"><i class="fas fa-check-circle"></i></span>
+          Third bullet point highlighting something you want to emphasize.
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
