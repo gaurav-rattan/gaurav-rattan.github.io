@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: LOGSMS # blog_name will be displayed in your blog page
+blog_description: Learning on Graphs: Symmetry meets Structure
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -192,7 +192,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _pages/blog.md
   - _pages/dropdown.md
   - _pages/projects.md
   - _pages/repositories.md
