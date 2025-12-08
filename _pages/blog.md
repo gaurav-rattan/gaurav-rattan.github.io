@@ -38,11 +38,9 @@ pagination:
 	<a href="https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme/projects-vidi/vidi-2024">NWO VIDI</a> project LOGSMS
       </h3>
 
-	
 	<p class="card-text">
         <i>Mathematical Foundations of Machine Learning on Graphs and Networks</I>
        </p>
-
 
       <ul>
         <li>
@@ -54,6 +52,11 @@ pagination:
           How can we extend the realm of classical graph theory to shed more light on graph learning models? 
         </li>
       </ul>
+<br>
+	<p class="card-text">
+        The LOGSMS team will design <i>next-generation</i> machine learning tools for graphs and networks.
+       </p>
+
 
     </div>
   </div>
