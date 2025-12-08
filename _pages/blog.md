@@ -35,17 +35,13 @@ pagination:
     <div class="card-body">
       <h3 class="card-title mb-3">
         <i class="fas fa-lightbulb mr-2"></i>
-        A short sentence introducing my work
+        LOGSMS targets foundational questions in Machine Learning on Graphs and Networks, such as, 
       </h3>
-
-      <p class="card-text">
-        I focus on a few key directions that connect theory, algorithms, and real-world applications:
-      </p>
 
       <ul class="fa-ul mb-0">
         <li>
           <span class="fa-li"><i class="fas fa-check-circle"></i></span>
-          First bullet point with a slightly longer, descriptive sentence.
+          How can we mathematically characterize the power and limitations of existing graph learning models? 
         </li>
         <li>
           <span class="fa-li"><i class="fas fa-check-circle"></i></span>
@@ -56,6 +52,10 @@ pagination:
           Third bullet point highlighting something you want to emphasize.
         </li>
       </ul>
+      <p class="card-text">
+        The LOGSMS project is funded by a five-year NWO VIDI Talent grant (2026 -- 2030). 
+      </p>
+
     </div>
   </div>
 </section>
