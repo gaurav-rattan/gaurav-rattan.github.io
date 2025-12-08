@@ -35,7 +35,7 @@ pagination:
     <div class="card-body">
       <h3 class="card-title mb-3">
         <i class="fas fa-lightbulb mr-2"></i>
-	NWO VIDI project LOGSMS
+	<a href="https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme/projects-vidi/vidi-2024">NWO VIDI</a> project LOGSMS
       </h3>
 
 	
