@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Attending <a href="https://www.sigalgo.nl/symposium/"> SIGAlgo 2024 </a> at *TU/e Eindhoven*. <br>
-Gave a talk "*Color Refinement: One Algorithm, Many Facets*".
+Gave a talk *Color Refinement: One Algorithm, Many Facets*.
