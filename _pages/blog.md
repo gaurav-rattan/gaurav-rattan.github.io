@@ -35,25 +35,32 @@ pagination:
     <div class="card-body">
       <h3 class="card-title mb-3">
         <i class="fas fa-lightbulb mr-2"></i>
-        LOGSMS targets foundational questions in Machine Learning on Graphs and Networks, such as, 
+	NWO VIDI project LOGSMS
       </h3>
 
-      <ul class="fa-ul mb-0">
+	
+	<p class="card-text">
+        *Mathematical Foundations of Machine Learning on Graphs and Networks*
+       </p>
+
+
+      <ul class="fa-ul mb-0" style="margin-left: 1.5em;">
         <li>
           <span class="fa-li"><i class="fas fa-check-circle"></i></span>
           How can we mathematically characterize the power and limitations of existing graph learning models? 
         </li>
         <li>
           <span class="fa-li"><i class="fas fa-check-circle"></i></span>
-          Second bullet point explaining another focus area or interest.
+          How can we mathematically characterize the power and limitations of existing graph learning models? 
         </li>
         <li>
           <span class="fa-li"><i class="fas fa-check-circle"></i></span>
-          Third bullet point highlighting something you want to emphasize.
+          How can we mathematically characterize the power and limitations of existing graph learning models? 
         </li>
       </ul>
+	<br> 
       <p class="card-text">
-        The LOGSMS project is funded by a five-year NWO VIDI Talent grant (2026 -- 2030). 
+        The LOGSMS project is supported by an **NWO VIDI Talent** grant. 
       </p>
 
     </div>
