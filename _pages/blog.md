@@ -29,6 +29,14 @@ pagination:
   </div>
   {% endif %}
 
+The NWO VIDI project LOGSMS seeks to answer fundamental questions about machine learning on relational structures, such as graphs and networks: 
+
+1) How can we mathematically characterize the power and limitations of existing graph learning models? 
+2) How can we leverage these insights to design new graph learning models that are provably more powerful? 
+3) What are the novel mathematical directions in classical graph theory which are central to answering these questions? 
+
+<br>
+
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
   <div class="tag-category-list">
