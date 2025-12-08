@@ -48,11 +48,11 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-a-post-with-pseudo-code",
+      },{id: "post-hiring-begins",
         
-          title: "a post with pseudo code",
+          title: "Hiring begins!",
         
-        description: "this is what included pseudo code could look like",
+        description: "One PhD position in Graph Neural Networks",
         section: "Posts",
         handler: () => {
           
