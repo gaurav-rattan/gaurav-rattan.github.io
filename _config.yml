@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: LOGSMS # blog_name will be displayed in your blog page
-blog_description: Learning on Graphs - Symmetry meets Structure
+blog_description: Learning on Graphs: Symmetry meets Structure
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
