@@ -53,7 +53,7 @@ pagination:
         </li>
       </ul>
 	<p class="card-text">
-        Over the next five years, the LOGSMS team will design <i>next-generation</i> machine learning tools for graphs and networks.
+        The LOGSMS project (2026 -- 2030) will contribute <i>next-generation</i> machine learning tools for graphs and networks. 
        </p>
 
 
