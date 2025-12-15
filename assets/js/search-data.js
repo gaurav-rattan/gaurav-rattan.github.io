@@ -41,7 +41,7 @@ ninja.data = [{
         
           title: "Hiring begins!",
         
-        description: "One PhD position in Mathematical Foundations of Graph Neural Networks",
+        description: "Two PhD positions in Mathematical Foundations of Machine Learning on Graphs and Networks",
         section: "Posts",
         handler: () => {
           
