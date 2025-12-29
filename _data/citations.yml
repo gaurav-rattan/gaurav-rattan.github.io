@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2025-12-24'
+  last_updated: '2025-12-29'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
-    citations: 102
+    citations: 103
     title: Ordered subgraph aggregation networks
     year: '2022'
   ZF_ryC4AAAAJ:2osOgNQ5qMEC:
@@ -106,6 +106,6 @@ papers:
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2430
+    citations: 2435
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
