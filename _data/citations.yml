@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-29'
+  last_updated: '2026-01-16'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
     citations: 103
@@ -78,7 +78,7 @@ papers:
     title: Some Geometrical and Vertex-Partitioning Techniques for Graph Isomorphism
     year: '2016'
   ZF_ryC4AAAAJ:hqOjcs7Dif8C:
-    citations: 59
+    citations: 60
     title: 'Speqnets: Sparsity-aware permutation-equivariant graph networks'
     year: '2022'
   ZF_ryC4AAAAJ:kNdYIx-mwKoC:
@@ -90,7 +90,7 @@ papers:
     title: Lov\'asz Meets Weisfeiler and Leman
     year: '2018'
   ZF_ryC4AAAAJ:roLk4NBRz8UC:
-    citations: 235
+    citations: 236
     title: 'Weisfeiler and leman go sparse: Towards scalable higher-order graph embeddings'
     year: '2020'
   ZF_ryC4AAAAJ:u-x6o8ySG0sC:
@@ -106,6 +106,6 @@ papers:
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2435
+    citations: 2456
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
