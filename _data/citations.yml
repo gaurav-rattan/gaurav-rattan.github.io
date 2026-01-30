@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-01-30'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
     citations: 104
@@ -10,7 +10,7 @@ papers:
     title: "On Tinhofer\u2019s linear programming approach to isomorphism testing"
     year: '2015'
   ZF_ryC4AAAAJ:3fE2CSJIrl8C:
-    citations: 14
+    citations: 15
     title: 'Satsuma: Structure-based symmetry breaking in SAT'
     year: '2024'
   ZF_ryC4AAAAJ:4TOpqqG69KYC:
@@ -90,7 +90,7 @@ papers:
     title: Lov\'asz Meets Weisfeiler and Leman
     year: '2018'
   ZF_ryC4AAAAJ:roLk4NBRz8UC:
-    citations: 237
+    citations: 240
     title: 'Weisfeiler and leman go sparse: Towards scalable higher-order graph embeddings'
     year: '2020'
   ZF_ryC4AAAAJ:u-x6o8ySG0sC:
@@ -106,6 +106,6 @@ papers:
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2472
+    citations: 2480
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
