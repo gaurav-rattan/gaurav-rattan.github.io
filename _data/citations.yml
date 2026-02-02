@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-02-02'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
     citations: 104
@@ -22,7 +22,7 @@ papers:
     title: The parameterized complexity of fixing number and vertex individualization in graphs
     year: '2022'
   ZF_ryC4AAAAJ:9yKSN-GCB0IC:
-    citations: 40
+    citations: 39
     title: Graph similarity and approximate isomorphism
     year: '2018'
   ZF_ryC4AAAAJ:IjCSPb-OGe4C:
@@ -34,7 +34,7 @@ papers:
     title: 41st International Symposium on Mathematical Foundations of Computer Science (MFCS 2016)
     year: '2016'
   ZF_ryC4AAAAJ:Se3iqnhoufwC:
-    citations: 38
+    citations: 39
     title: Weisfeiler-leman and graph spectra
     year: '2023'
   ZF_ryC4AAAAJ:ULOm3_A8WrAC:
@@ -46,7 +46,7 @@ papers:
     title: Faster FPT Algorithm for Graph Isomorphism Parameterized by Eigenvalue Multiplicity
     year: '2014'
   ZF_ryC4AAAAJ:UebtZRa9Y70C:
-    citations: 31
+    citations: 32
     title: Homomorphism tensors and linear equations
     year: '2021'
   ZF_ryC4AAAAJ:W7OEmFMy1HYC:
@@ -86,7 +86,7 @@ papers:
     title: The complexity of symmetry breaking beyond lex-leader
     year: '2024'
   ZF_ryC4AAAAJ:qjMakFHDy7sC:
-    citations: 136
+    citations: 137
     title: Lov\'asz Meets Weisfeiler and Leman
     year: '2018'
   ZF_ryC4AAAAJ:roLk4NBRz8UC:
@@ -102,10 +102,10 @@ papers:
     title: Graph isomorphism, color refinement, and compactness
     year: '2017'
   ZF_ryC4AAAAJ:ufrVoPGSRksC:
-    citations: 19
+    citations: 20
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2480
+    citations: 2487
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
