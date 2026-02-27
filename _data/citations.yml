@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-02-27'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
     citations: 111
@@ -102,6 +102,6 @@ papers:
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2521
+    citations: 2528
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
