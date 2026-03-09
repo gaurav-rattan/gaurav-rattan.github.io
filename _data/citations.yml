@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-03-09'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
-    citations: 111
+    citations: 113
     title: Ordered subgraph aggregation networks
     year: '2022'
   ZF_ryC4AAAAJ:2osOgNQ5qMEC:
@@ -30,7 +30,7 @@ papers:
     title: 41st International Symposium on Mathematical Foundations of Computer Science (MFCS 2016)
     year: '2016'
   ZF_ryC4AAAAJ:Se3iqnhoufwC:
-    citations: 42
+    citations: 44
     title: Weisfeiler-leman and graph spectra
     year: '2023'
   ZF_ryC4AAAAJ:ULOm3_A8WrAC:
@@ -74,7 +74,7 @@ papers:
     title: Some Geometrical and Vertex-Partitioning Techniques for Graph Isomorphism
     year: '2016'
   ZF_ryC4AAAAJ:hqOjcs7Dif8C:
-    citations: 63
+    citations: 64
     title: 'Speqnets: Sparsity-aware permutation-equivariant graph networks'
     year: '2022'
   ZF_ryC4AAAAJ:kNdYIx-mwKoC:
@@ -82,11 +82,11 @@ papers:
     title: The complexity of symmetry breaking beyond lex-leader
     year: '2024'
   ZF_ryC4AAAAJ:qjMakFHDy7sC:
-    citations: 139
+    citations: 140
     title: Lov\'asz Meets Weisfeiler and Leman
     year: '2018'
   ZF_ryC4AAAAJ:roLk4NBRz8UC:
-    citations: 248
+    citations: 250
     title: 'Weisfeiler and leman go sparse: Towards scalable higher-order graph embeddings'
     year: '2020'
   ZF_ryC4AAAAJ:u-x6o8ySG0sC:
@@ -102,6 +102,6 @@ papers:
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2528
+    citations: 2553
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
