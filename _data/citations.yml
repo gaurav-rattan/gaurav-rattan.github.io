@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-18'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
-    citations: 118
+    citations: 119
     title: Ordered subgraph aggregation networks
     year: '2022'
   ZF_ryC4AAAAJ:2osOgNQ5qMEC:
@@ -82,7 +82,7 @@ papers:
     title: The complexity of symmetry breaking beyond lex-leader
     year: '2024'
   ZF_ryC4AAAAJ:qjMakFHDy7sC:
-    citations: 142
+    citations: 143
     title: Lov\'asz Meets Weisfeiler and Leman
     year: '2018'
   ZF_ryC4AAAAJ:qxL8FJ1GzNcC:
@@ -90,7 +90,7 @@ papers:
     title: 43rd International Symposium on Mathematical Foundations of Computer Science (MFCS 2018)
     year: '2018'
   ZF_ryC4AAAAJ:roLk4NBRz8UC:
-    citations: 256
+    citations: 257
     title: 'Weisfeiler and leman go sparse: Towards scalable higher-order graph embeddings'
     year: '2020'
   ZF_ryC4AAAAJ:u-x6o8ySG0sC:
@@ -106,6 +106,6 @@ papers:
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2666
+    citations: 2671
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
