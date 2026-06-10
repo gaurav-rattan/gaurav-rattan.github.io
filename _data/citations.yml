@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-10'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
     citations: 119
@@ -82,7 +82,7 @@ papers:
     title: The complexity of symmetry breaking beyond lex-leader
     year: '2024'
   ZF_ryC4AAAAJ:qjMakFHDy7sC:
-    citations: 144
+    citations: 145
     title: Lov\'asz Meets Weisfeiler and Leman
     year: '2018'
   ZF_ryC4AAAAJ:qxL8FJ1GzNcC:
@@ -106,6 +106,6 @@ papers:
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2700
+    citations: 2703
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
