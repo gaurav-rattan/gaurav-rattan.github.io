@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-03'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
-    citations: 120
+    citations: 121
     title: Ordered subgraph aggregation networks
     year: '2022'
   ZF_ryC4AAAAJ:2osOgNQ5qMEC:
@@ -30,7 +30,7 @@ papers:
     title: 41st International Symposium on Mathematical Foundations of Computer Science (MFCS 2016)
     year: '2016'
   ZF_ryC4AAAAJ:Se3iqnhoufwC:
-    citations: 46
+    citations: 47
     title: Weisfeiler-leman and graph spectra
     year: '2023'
   ZF_ryC4AAAAJ:ULOm3_A8WrAC:
@@ -42,7 +42,7 @@ papers:
     title: Faster FPT Algorithm for Graph Isomorphism Parameterized by Eigenvalue Multiplicity
     year: '2014'
   ZF_ryC4AAAAJ:UebtZRa9Y70C:
-    citations: 39
+    citations: 40
     title: Homomorphism tensors and linear equations
     year: '2021'
   ZF_ryC4AAAAJ:W7OEmFMy1HYC:
@@ -82,7 +82,7 @@ papers:
     title: The complexity of symmetry breaking beyond lex-leader
     year: '2024'
   ZF_ryC4AAAAJ:qjMakFHDy7sC:
-    citations: 145
+    citations: 146
     title: Lov\'asz Meets Weisfeiler and Leman
     year: '2018'
   ZF_ryC4AAAAJ:qxL8FJ1GzNcC:
@@ -90,7 +90,7 @@ papers:
     title: 43rd International Symposium on Mathematical Foundations of Computer Science (MFCS 2018)
     year: '2018'
   ZF_ryC4AAAAJ:roLk4NBRz8UC:
-    citations: 259
+    citations: 264
     title: 'Weisfeiler and leman go sparse: Towards scalable higher-order graph embeddings'
     year: '2020'
   ZF_ryC4AAAAJ:u-x6o8ySG0sC:
@@ -98,7 +98,7 @@ papers:
     title: The parameterized complexity of geometric graph isomorphism
     year: '2016'
   ZF_ryC4AAAAJ:u5HHmVD_uO8C:
-    citations: 44
+    citations: 45
     title: Graph isomorphism, color refinement, and compactness
     year: '2017'
   ZF_ryC4AAAAJ:ufrVoPGSRksC:
@@ -106,6 +106,6 @@ papers:
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2726
+    citations: 2740
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
