@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-22'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
     citations: 126
@@ -10,7 +10,7 @@ papers:
     title: "On Tinhofer\u2019s linear programming approach to isomorphism testing"
     year: '2015'
   ZF_ryC4AAAAJ:3fE2CSJIrl8C:
-    citations: 17
+    citations: 19
     title: 'Satsuma: Structure-based symmetry breaking in SAT'
     year: '2026'
   ZF_ryC4AAAAJ:5nxA0vEk-isC:
@@ -78,7 +78,7 @@ papers:
     title: 'Speqnets: Sparsity-aware permutation-equivariant graph networks'
     year: '2022'
   ZF_ryC4AAAAJ:kNdYIx-mwKoC:
-    citations: 2
+    citations: 3
     title: The complexity of symmetry breaking beyond lex-leader
     year: '2024'
   ZF_ryC4AAAAJ:qjMakFHDy7sC:
@@ -106,6 +106,6 @@ papers:
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2773
+    citations: 2779
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
