@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-31'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
     citations: 126
@@ -12,13 +12,13 @@ papers:
   ZF_ryC4AAAAJ:3fE2CSJIrl8C:
     citations: 19
     title: 'Satsuma: Structure-based symmetry breaking in SAT'
-    year: '2026'
+    year: '2024'
   ZF_ryC4AAAAJ:5nxA0vEk-isC:
     citations: 2
     title: The parameterized complexity of fixing number and vertex individualization in graphs
     year: '2022'
   ZF_ryC4AAAAJ:9yKSN-GCB0IC:
-    citations: 43
+    citations: 44
     title: Graph similarity and approximate isomorphism
     year: '2018'
   ZF_ryC4AAAAJ:IjCSPb-OGe4C:
@@ -42,9 +42,9 @@ papers:
     title: Faster FPT Algorithm for Graph Isomorphism Parameterized by Eigenvalue Multiplicity
     year: '2014'
   ZF_ryC4AAAAJ:UebtZRa9Y70C:
-    citations: 40
+    citations: 41
     title: Homomorphism tensors and linear equations
-    year: '2021'
+    year: '2022'
   ZF_ryC4AAAAJ:W7OEmFMy1HYC:
     citations: 6
     title: The parameterized complexity of fixing number and vertex individualization in graphs
@@ -82,7 +82,7 @@ papers:
     title: The complexity of symmetry breaking beyond lex-leader
     year: '2024'
   ZF_ryC4AAAAJ:qjMakFHDy7sC:
-    citations: 149
+    citations: 151
     title: Lov\'asz Meets Weisfeiler and Leman
     year: '2018'
   ZF_ryC4AAAAJ:qxL8FJ1GzNcC:
@@ -90,22 +90,22 @@ papers:
     title: 43rd International Symposium on Mathematical Foundations of Computer Science (MFCS 2018)
     year: '2018'
   ZF_ryC4AAAAJ:roLk4NBRz8UC:
-    citations: 266
+    citations: 267
     title: 'Weisfeiler and leman go sparse: Towards scalable higher-order graph embeddings'
     year: '2020'
   ZF_ryC4AAAAJ:u-x6o8ySG0sC:
     citations: 9
     title: The parameterized complexity of geometric graph isomorphism
-    year: '2016'
+    year: '2014'
   ZF_ryC4AAAAJ:u5HHmVD_uO8C:
     citations: 46
     title: Graph isomorphism, color refinement, and compactness
-    year: '2017'
+    year: '2015'
   ZF_ryC4AAAAJ:ufrVoPGSRksC:
     citations: 22
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2783
+    citations: 2791
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
