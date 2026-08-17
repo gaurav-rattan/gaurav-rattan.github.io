@@ -1,24 +1,24 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-17'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
-    citations: 126
+    citations: 125
     title: Ordered subgraph aggregation networks
     year: '2022'
   ZF_ryC4AAAAJ:2osOgNQ5qMEC:
-    citations: 14
+    citations: 13
     title: "On Tinhofer\u2019s linear programming approach to isomorphism testing"
     year: '2015'
   ZF_ryC4AAAAJ:3fE2CSJIrl8C:
-    citations: 19
+    citations: 21
     title: 'Satsuma: Structure-based symmetry breaking in SAT'
-    year: '2024'
+    year: '2026'
   ZF_ryC4AAAAJ:5nxA0vEk-isC:
     citations: 2
     title: The parameterized complexity of fixing number and vertex individualization in graphs
     year: '2022'
   ZF_ryC4AAAAJ:9yKSN-GCB0IC:
-    citations: 44
+    citations: 46
     title: Graph similarity and approximate isomorphism
     year: '2018'
   ZF_ryC4AAAAJ:IjCSPb-OGe4C:
@@ -39,12 +39,12 @@ papers:
     year: '2024'
   ZF_ryC4AAAAJ:UeHWp8X0CEIC:
     citations: 1
-    title: Faster FPT Algorithm for Graph Isomorphism Parameterized by Eigenvalue Multiplicity
+    title: Faster FPT algorithm for graph isomorphism parameterized by eigenvalue multiplicity
     year: '2014'
   ZF_ryC4AAAAJ:UebtZRa9Y70C:
-    citations: 41
+    citations: 42
     title: Homomorphism tensors and linear equations
-    year: '2022'
+    year: '2021'
   ZF_ryC4AAAAJ:W7OEmFMy1HYC:
     citations: 6
     title: The parameterized complexity of fixing number and vertex individualization in graphs
@@ -54,7 +54,7 @@ papers:
     title: On the isomorphism problem for decision trees and decision lists
     year: '2015'
   ZF_ryC4AAAAJ:Y0pCki6q_DkC:
-    citations: 82
+    citations: 81
     title: On the power of color refinement
     year: '2015'
   ZF_ryC4AAAAJ:YsMSGLbcyi4C:
@@ -66,15 +66,15 @@ papers:
     title: LIPIcs, Volume 307, CP 2024, Complete Volume}}
     year: '2024'
   ZF_ryC4AAAAJ:d1gkVwhDpl0C:
-    citations: 12
+    citations: 11
     title: On the complexity of noncommutative polynomial factorization
     year: '2018'
   ZF_ryC4AAAAJ:eQOLeE2rZwMC:
-    citations: 1
-    title: Some Geometrical and Vertex-Partitioning Techniques for Graph Isomorphism
+    citations: 0
+    title: Some geometrical and vertex partitioning techniques for graph isomorphism [HBNI Th105]
     year: '2016'
   ZF_ryC4AAAAJ:hqOjcs7Dif8C:
-    citations: 71
+    citations: 72
     title: 'Speqnets: Sparsity-aware permutation-equivariant graph networks'
     year: '2022'
   ZF_ryC4AAAAJ:kNdYIx-mwKoC:
@@ -82,7 +82,7 @@ papers:
     title: The complexity of symmetry breaking beyond lex-leader
     year: '2024'
   ZF_ryC4AAAAJ:qjMakFHDy7sC:
-    citations: 151
+    citations: 155
     title: Lov\'asz Meets Weisfeiler and Leman
     year: '2018'
   ZF_ryC4AAAAJ:qxL8FJ1GzNcC:
@@ -90,22 +90,22 @@ papers:
     title: 43rd International Symposium on Mathematical Foundations of Computer Science (MFCS 2018)
     year: '2018'
   ZF_ryC4AAAAJ:roLk4NBRz8UC:
-    citations: 267
+    citations: 271
     title: 'Weisfeiler and leman go sparse: Towards scalable higher-order graph embeddings'
     year: '2020'
   ZF_ryC4AAAAJ:u-x6o8ySG0sC:
-    citations: 9
+    citations: 8
     title: The parameterized complexity of geometric graph isomorphism
-    year: '2014'
+    year: '2016'
   ZF_ryC4AAAAJ:u5HHmVD_uO8C:
-    citations: 46
+    citations: 47
     title: Graph isomorphism, color refinement, and compactness
-    year: '2015'
+    year: '2017'
   ZF_ryC4AAAAJ:ufrVoPGSRksC:
-    citations: 22
+    citations: 24
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2791
+    citations: 2809
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
