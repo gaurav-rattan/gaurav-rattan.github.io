@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-09-02'
+  last_updated: '2026-09-07'
 papers:
   ZF_ryC4AAAAJ:0EnyYjriUFMC:
-    citations: 126
+    citations: 128
     title: Ordered subgraph aggregation networks
     year: '2022'
   ZF_ryC4AAAAJ:2osOgNQ5qMEC:
@@ -10,7 +10,7 @@ papers:
     title: "On Tinhofer\u2019s linear programming approach to isomorphism testing"
     year: '2015'
   ZF_ryC4AAAAJ:3fE2CSJIrl8C:
-    citations: 23
+    citations: 24
     title: 'Satsuma: Structure-based symmetry breaking in SAT'
     year: '2026'
   ZF_ryC4AAAAJ:5nxA0vEk-isC:
@@ -82,7 +82,7 @@ papers:
     title: The complexity of symmetry breaking beyond lex-leader
     year: '2024'
   ZF_ryC4AAAAJ:qjMakFHDy7sC:
-    citations: 155
+    citations: 156
     title: Lov\'asz Meets Weisfeiler and Leman
     year: '2018'
   ZF_ryC4AAAAJ:qxL8FJ1GzNcC:
@@ -106,6 +106,6 @@ papers:
     title: The complexity of homomorphism indistinguishability
     year: '2019'
   ZF_ryC4AAAAJ:zYLM7Y9cAGgC:
-    citations: 2840
+    citations: 2849
     title: 'Weisfeiler and leman go neural: Higher-order graph neural networks'
     year: '2019'
